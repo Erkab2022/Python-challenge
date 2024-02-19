@@ -1,0 +1,9 @@
+
+
+Financial analysis
+----------------------
+Total mounths: 86
+Total: $22564198
+average_change: $-8311.105882352942
+Greatest Increase in Profits: $(1862002)
+Greatest Decrease in profits: $(-1825558)
